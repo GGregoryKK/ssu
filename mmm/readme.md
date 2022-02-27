@@ -3,13 +3,15 @@ Table of Contents
 
 
 * [Table of Contents](#table-of-contents)
-* [1. Lab 1](#Lab-1)
-  * [1.1 Example](#11-Example)
-  * [1.2 Best score](#12-Best-score)
+* [1. Lab 1](#lab-1)
+  * [1.1 Example](#11-example)
+  * [1.2 Best score](#12-best-score)
 
 
 # 1. Lab 1
-##[Example](lab1/example.py).
+
+
+## [Example](lab1/example.py)
 
 ```python
 from ssu.mmm.lab1.read_data import ReadData
@@ -25,7 +27,7 @@ print(t)
 ```
 
 
-##Best score:
+## Best score
 ```commandline
 Result:
 
