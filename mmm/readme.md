@@ -3,7 +3,7 @@ Table of Contents
 
 
 * [Table of Contents](#table-of-contents)
-* [1. Lab 1](#Lab-1)
+* [1. Lab 1](#lab-1)
   * [1.1 Example](#11-example)
   * [1.2 Best score](#12-best-score)
 
