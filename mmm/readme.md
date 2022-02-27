@@ -9,7 +9,9 @@ Table of Contents
 
 
 # 1. Lab 1
-## [Example](lab1/example.py).
+
+
+## [Example](lab1/example.py)
 
 ```python
 from ssu.mmm.lab1.read_data import ReadData
@@ -25,7 +27,7 @@ print(t)
 ```
 
 
-## Best score:
+## Best score
 ```commandline
 Result:
 
