@@ -1,0 +1,189 @@
+body {
+  background-image: url("https://64.media.tumblr.com/5ee625327bcd644f06ba0b00b5b475ce/tumblr_ow8ha3aWOf1upvbufo1_540.gifv");
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+.message {
+    max-width: 12%;
+    border-radius: 5px;
+    padding: 8px;
+    background-color: skyblue;
+    color: white;
+    position: fixed;
+    bottom: 15px;
+    right: 15px;
+}
+
+.header-wrapper {
+    padding: 8px;
+    color: skyblue;
+    background-color: #7CB9E8;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.title-href {
+    text-decoration: none;
+    color: white;
+}
+
+.logout-block {
+    color: white;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.logout-href {
+    text-decoration: none;
+    color: white;
+}
+
+.logout-button {
+    background-color: red;
+    border-radius: 5px;
+    padding: 8px;
+    margin: 8px;
+}
+
+.auth-form {
+    background-color: #7CB9E8;
+    opacity: .75;
+    border-radius: 25px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 400px;
+}
+
+.auth-form form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+input {
+    margin: 5px;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+}
+
+select {
+    margin: 5px;
+    padding: 8px;
+    border: none;
+    border-radius: 5px;
+}
+
+button {
+    margin: 5px;
+    padding: 8px;
+
+    border: none;
+    border-radius: 5px;
+    color: black;
+    cursor: pointer;
+}
+
+table {
+    border: 1px solid white;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    color: black;
+    padding: 8px;
+    border: 1px solid white;
+}
+
+tr:nth-child(even) {
+    opacity: .9;
+    background-color: #7CB9E8;
+}
+
+th {
+    background-color: white;
+
+}
+
+caption {
+    margin: 8px;
+}
+
+.table-wrapper {
+    background-color: skyblue;
+    margin: 15px auto auto;
+    width: 80%;
+    border: 1px solid skyblue;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.table-wrapper p {
+    text-align: center;
+    color: white;
+}
+
+.question-answer-block p {
+    text-align: left;
+    color: black;
+}
+
+.question-answer-block {
+    color: black;
+    padding: 8px;
+    border-top: 1px solid white;
+}
+
+.confirm-wrapper {
+    background-color: skyblue;
+    width: 80%;
+    margin: 15px auto auto;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 90%;
+    margin: 15px auto auto;
+    padding: 8px;
+}
+
+.menu-item {
+    margin:15px;
+    padding: 8px;
+    cursor: pointer;
+    background-color: skyblue;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    max-width: 300px;
+}
+
+.menu-href {
+    text-decoration: none;
+    color: white;
+}
+
+.button {
+    background-color: skyblue;
+    border-radius: 5px;
+    padding: 8px;
+    margin: 8px;
+    cursor: pointer;
+    width: 49px;
+}
