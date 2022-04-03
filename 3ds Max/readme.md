@@ -9,7 +9,7 @@ Table of Contents
   * [1.4 Floor fan](#14-floor-fan)
   * [1.5 Paint deformation](#15-paint-deformation)
   * [1.6 Screw](#16-screw)
-  * [1.7 House plan](#16-house-plan)
+  * [1.7 House plan](#17-house-plan)
 
   
 
